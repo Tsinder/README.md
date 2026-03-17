@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Ultra Past Reconstruction System (UPRS)"
+authors:
+  - family-names: Tsinderhoz
+    given-names: Vadym
+date-released: 2026-03-16
+version: 1.0
+license: "Defensive Publication"
+abstract: "Multi-modal architecture for probabilistic reconstruction of historical events."
